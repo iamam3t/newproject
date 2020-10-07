@@ -16,12 +16,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('website.pages.welcome');
 })->name('home');
+
 Route::get('/about-us', function () {
     return view('website.pages.about-us');
 })->name('about-us');
+
 Route::get('/training', function () {
     return view('website.pages.training');
 })->name('training');
+
 Route::get('/pricing', function () {
     return view('website.pages.pricing');
 })->name('pricing');
@@ -35,4 +38,5 @@ Route::get('/logout', function(){
         ->with('message', array('type' => 'success', 'text' => 'You have successfully logged out'));
 })->name('logout');
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('dashboard');
+
+Route::get('/dashboard', [App\Http\Controllers\HomeController::class, 'index'])->name('dashboard');
