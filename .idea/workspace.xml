@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/dash.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/application/assets/plugins/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/application/assets/plugins/sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/application/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/application/dashboard.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602031470692</updated>
       <workItem from="1602031471835" duration="9029000" />
-      <workItem from="1602046519442" duration="18736000" />
+      <workItem from="1602046519442" duration="19363000" />
     </task>
     <servers />
   </component>

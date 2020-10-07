@@ -1,7 +1,8 @@
 <nav class="p-0 d-none d-md-block bg-white sidebar-sticky">
     <ul class="nav flex-column">
         <li class="nav-item px-4 pb-3" id="sidebar_logo">
-            <a href="{{route('home')}}"><img src="{{ asset('img/logo/logo.png') }}" alt="logo" style="max-width: 120px;"></a>
+            <a href="{{route('home')}}"><img src="{{ asset('img/logo/logo.png') }}" alt="logo"
+                                             style="max-width: 120px;"></a>
         </li>
         <li class="nav-item">
             <a class="nav-link active" href="{{route('dashboard')}}">
@@ -80,18 +81,17 @@
                 Text With Image
             </a>
         </li>
-        <ul class="nav flex-column">
-            <hr class="my-4">
-            <li class="nav-item px-4 py-0">
-                Account
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{route('logout')}}">
-                    <i class="fas fa-sign-out-alt"></i>
-                    <span class="pr-2"></span>
-                    Logout
-                </a>
-            </li>
-        </ul>
+    </ul>
+    <ul class="nav border-top flex-column">
+        <li class="nav-item px-4 pt-4">
+            Account
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{route('logout')}}">
+                <i class="fas fa-sign-out-alt"></i>
+                <span class="pr-2"></span>
+                Logout
+            </a>
+        </li>
     </ul>
 </nav>
