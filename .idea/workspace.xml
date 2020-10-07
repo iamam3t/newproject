@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/extra/creative.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/extra/mission.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/extra/partnership.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/extra/resistance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/extra/vision.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_10_07_120139_create_page_tag_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/website/pages/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/website/pages/about-us.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_07_023138_create_role_user_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_07_023138_create_role_user_table.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,11 +141,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iWlwsJNMkuY0WqT3sxO82JmIDO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img/extra" />
@@ -193,12 +194,15 @@
       <option name="presentableId" value="Default" />
       <updated>1602031470692</updated>
       <workItem from="1602031471835" duration="9029000" />
-      <workItem from="1602046519442" duration="15266000" />
+      <workItem from="1602046519442" duration="16845000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1602032610473">
