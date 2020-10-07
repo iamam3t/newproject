@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="container p-3">
-                <img src="{{asset('img/logo/dSewanew.png')}}" width="200px" alt="logo">
+                <img src="{{asset('img/logo/logo.png')}}" width="200px" alt="logo">
             </div>
             <div class="p-3 container-fluid bg-primary">
                 <div class="container p-3 text-white">
@@ -35,7 +35,7 @@
                     <div class="card mb-3" style="max-width: 540px;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <img src="{{asset('img/extra/mission.jpg')}}" class="card-img" alt="vision">
+                                <img src="{{asset('img/extra/mission.jpg')}}" class="card-img" alt="Mission">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -58,7 +58,7 @@
                     <div class="card mb-3 mr-3" style="max-width: 540px;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <img src="{{asset('img/extra/partnership.jpg')}}" class="card-img" alt="vision">
+                                <img src="{{asset('img/extra/partnership.jpg')}}" class="card-img" alt="partnership">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -73,7 +73,7 @@
                     <div class="card mb-3" style="max-width: 540px;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <img src="{{asset('img/extra/resistance.jpg')}}" class="card-img" alt="vision">
+                                <img src="{{asset('img/extra/resistance.jpg')}}" class="card-img" alt="resistance">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -87,7 +87,7 @@
                     <div class="card mb-3" style="max-width: 540px;">
                         <div class="row no-gutters">
                             <div class="col-md-4">
-                                <img src="{{asset('img/extra/creative.jpg')}}" class="card-img" alt="vision">
+                                <img src="{{asset('img/extra/creative.jpg')}}" class="card-img" alt="creative">
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
@@ -104,33 +104,30 @@
             <div class="container p-3">
                 <div class="py-5"></div>
                 <div class="row">
-                    <div class="card text-white bg-secondary mb-3 mr-3" style="max-width: 30rem;">
-                        <div class="card-header"><h4>Contact</h4></div>
+                    <div class="card text-white bg-secondary mb-3 mr-3" style="max-width: 28rem;">
+                        <div class="card-header"><h5>Contact</h5></div>
                         <div class="card-body">
-                            <h5 class="card-title">Delivery Sewa Company Pvt Ltd
-                            </h5>
-                            <p class="card-text">*dSewa is nickname for Delivery Sewa company Pvt Ltd.
+                            <p class="card-title">Delivery Sewa Company Pvt Ltd
                             </p>
-                            <br></br>
-                            <button class="btn btn-primary float-right">Contact support</button>
+                            <p class="card-text">  <span class="text-reset">*dSewa is nickname for Delivery Sewa company Pvt Ltd.</span>
+                            </p>
+                            <a class="btn btn-info float-right">Contact support</a>
                         </div>
                     </div>
-                    <div class="card text-white bg-secondary mb-3 mr-3" style="max-width: 30rem;">
-                        <div class="card-header"><h4>HQ</h4></div>
+                    <div class="card text-white bg-secondary mb-3 mr-3" style="max-width: 28rem;">
+                        <div class="card-header"><h5>HQ</h5></div>
                         <div class="card-body">
-                            <h5 class="card-title">Delivery Sewa Company Pvt Ltd
-                            </h5>
+                            <p class="card-title">Delivery Sewa Company Pvt Ltd
+                            </p>
                             <p class="card-text">Road No. 03, Sambhu Marg,
                                 Ward No. 09, KMC,
                                 Kathmandu, Bagmati, Nepal
                             </p>
                         </div>
                     </div>
-                    <div class="card text-white bg-primary mb-3" style="max-width: 30rem;">
-                        <div class="card-header"><h4>Social</h4></div>
+                    <div class="card text-white bg-danger mb-3" style="max-width: 25rem;">
+                        <div class="card-header"><h5>Connect through</h5></div>
                         <div class="card-body">
-                            <h5 class="card-title">Connect through
-                            </h5>
                             <ul>
                                 <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-facebook"></i> Facebook</a></li>
                                 <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-instagram"></i> Instagram</a></li>
