@@ -7,17 +7,19 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'dSewa') }}</title>
+
+    <link rel="icon" href="{{ asset('img/logo/favicon.png') }}" type="image/x-icon"/>
 
     <!-- Scripts -->
-    @include('assets.script')
+    @include('layouts.script')
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    @include('assets.stylesheet')
+    @include('layouts.stylesheet')
 </head>
 <body>
     <div id="app">
@@ -55,15 +57,8 @@
                                 </a>
 
                                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                        {{ __('Logout') }}
+                                    <a class="dropdown-item" href="{{ route('logout') }}">logout
                                     </a>
-
-                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
-                                        @csrf
-                                    </form>
                                 </div>
                             </li>
                         @endguest
@@ -75,6 +70,7 @@
         <main class="py-4">
             @yield('content')
         </main>
+        @include('website.pages.plugins.footer')
     </div>
 </body>
 </html>

@@ -1,4 +1,4 @@
-@extends('website.layouts.app')
+@extends('layouts.app')
 
 @section('content')
     <div class="container">
@@ -29,7 +29,7 @@
                                                     <div class="input-group-text bg-transparent text-muted"><i class="fas fa-user"></i></div>
                                                 </div>
                                                 <input id="name" type="text" class="form-control @error('name') is-invalid @enderror" name="name"
-                                                       value="{{ old('name') }}" placeholder="full name" autocomplete="name"
+                                                       value="{{ old('name') }}" placeholder="name" autocomplete="name"
                                                        autofocus required>
 
                                                 @error('name')

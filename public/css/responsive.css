@@ -18,6 +18,11 @@
     .slider a{
         font-size: 15px;
     }
+    /* Pricing */
+    .snip1214 .plan {
+        width: 100%;
+    }
+    /* Pricing */
 }
 
 /*Small devices (landscape phones, 576px and up)*/
@@ -37,6 +42,27 @@
     .slider a{
         font-size: 15px;
     }
+    /* Pricing */
+    .snip1214 .plan {
+        width: 50%;
+    }
+    .snip1214 .plan-title,
+    .snip1214 .plan-select a {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+    .snip1214 .plan-cost,
+    .snip1214 .featured .plan-cost {
+        padding: 20px 10px 20px;
+    }
+    .snip1214 .plan-select,
+    .snip1214 .featured .plan-select {
+        padding: 10px 10px 10px;
+    }
+    .snip1214 .featured {
+        margin-top: 0;
+    }
+    /* Pricing */
 }
 
 /*Medium devices (tablets, 768px and up)*/
