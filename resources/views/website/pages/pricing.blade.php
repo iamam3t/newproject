@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="container p-3">
-                <img src="{{asset('img/logo/logo.png')}}" width="200px" alt="logo">
+                <img src="{{asset('img/logo/logo.png')}}" width="150px" alt="logo">
             </div>
             <div class="p-3 container-fluid bg-primary">
                 <div class="container p-3 text-white">

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_10_07_120139_create_page_tag_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/dash.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_07_023138_create_role_user_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_07_023138_create_role_user_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/application/assets/plugins/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/application/assets/plugins/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/application/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/application/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +153,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img/extra" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -165,11 +166,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NamsG\Documents\GitHub\webapp\resources\views\layouts" />
       <recent name="C:\Users\NamsG\Documents\GitHub\webapp\public\img\extra" />
       <recent name="C:\Users\NamsG\Documents\GitHub\webapp\resources\views\assets\plugins" />
       <recent name="C:\Users\NamsG\Documents\GitHub\webapp\resources\views\website\pages\plugins" />
       <recent name="C:\Users\NamsG\Documents\GitHub\webapp\resources\views\application\pages" />
-      <recent name="C:\Users\NamsG\Documents\GitHub\webapp\public\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\NamsG\Documents\GitHub\webapp\resources\views\application" />
@@ -194,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602031470692</updated>
       <workItem from="1602031471835" duration="9029000" />
-      <workItem from="1602046519442" duration="16845000" />
+      <workItem from="1602046519442" duration="18736000" />
     </task>
     <servers />
   </component>
@@ -205,6 +206,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602074777587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602074777587" />
     <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1602032610473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -221,10 +226,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602032610473" />
-    <state x="1275" y="446" key="NewPhpFileDialog" timestamp="1602064943374">
+    <state x="1275" y="446" key="NewPhpFileDialog" timestamp="1602073390750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1275" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602064943374" />
+    <state x="1275" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602073390750" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602061920500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -12,9 +12,9 @@
     <link rel="icon" href="{{ asset('img/logo/favicon.png') }}" type="image/x-icon"/>
 
     <!-- Scripts -->
-    @include('layouts.script')
+@include('layouts.script')
 
-    <!-- Fonts -->
+<!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
@@ -22,12 +22,11 @@
     @include('layouts.stylesheet')
 </head>
 <body>
-    <div id="app">
-        @include('website.pages.plugins.menu')
-        <main class="py-4">
-            @yield('content')
-        </main>
-        @include('website.pages.plugins.footer')
-    </div>
+<div id="app">
+    @include('application.assets.plugins.sidebar')
+    <main class="py-4">
+        @yield('content')
+    </main>
+</div>
 </body>
 </html>
