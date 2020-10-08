@@ -7,10 +7,28 @@
             </div>
             <div class="p-3 container-fluid bg-primary">
                 <div class="container p-3 text-white">
-                    <h1>About dSewa</h1>
-                    <p>Seamless & Accessible Courier</p>
+                    <h1>About Us</h1>
+                    <h5>Making Courier Truly Seamless &
+                        Universally Accessible</h5>
+                    <p>Connecting the world’s logistical resources, merchants and consumers through smart and
+                        efficient solutions that can create growth for business and society.</p>
                 </div>
             </div>
+
+            <div class="container mt-3 p-3">
+                <div class="row">
+                    <h2 class="py-3">What is dSewa?</h2>
+                    <p>We at dSewa are dedicated to helping micro, small and medium enterprises scale their business by
+                        removing operational inefficiencies as well as connecting them to a global network of courier
+                        partners, crowd sourced riders/drivers, and retailers.</p>
+                    <p>
+                        We started out as a same-day delivery service platform that allows for easy booking of runners
+                        for delivery or other errands. But now has grown into a one-stop delivery solution that helps
+                        small businesses save more time and money on shipping.
+                    </p>
+                </div>
+            </div>
+
             <div class="container p-3">
                 <div class="row py-5">
                     <h2>Philosophy & Vision</h2>
@@ -102,14 +120,13 @@
                 </div>
             </div>
             <div class="container p-3">
-                <div class="py-5"></div>
                 <div class="row">
                     <div class="card text-white bg-secondary mb-3 mr-3" style="max-width: 28rem;">
                         <div class="card-header"><h5>Contact</h5></div>
                         <div class="card-body">
                             <p class="card-title">Delivery Sewa Company Pvt Ltd
                             </p>
-                            <p class="card-text">  <span class="text-reset">*dSewa is nickname for Delivery Sewa company Pvt Ltd.</span>
+                            <p class="card-text"><span class="text-reset">*dSewa is nickname for Delivery Sewa company Pvt Ltd.</span>
                             </p>
                             <a class="btn btn-info float-right">Contact support</a>
                         </div>
@@ -129,11 +146,16 @@
                         <div class="card-header"><h5>Connect through</h5></div>
                         <div class="card-body">
                             <ul>
-                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-facebook"></i> Facebook</a></li>
-                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-instagram"></i> Instagram</a></li>
-                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-twitter"></i> Twitter</a></li>
-                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-youtube"></i> Youtube</a></li>
+                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-facebook"></i>
+                                        Facebook</a></li>
+                                <li class="list-unstyled"><a href="#" class="text-white"><i
+                                            class="fab fa-instagram"></i> Instagram</a></li>
+                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-twitter"></i>
+                                        Twitter</a></li>
+                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-linkedin"></i>
+                                        LinkedIn</a></li>
+                                <li class="list-unstyled"><a href="#" class="text-white"><i class="fab fa-youtube"></i>
+                                        Youtube</a></li>
                             </ul>
                         </div>
                     </div>
@@ -141,5 +163,4 @@
             </div>
         </div>
     </div>
-
 @endsection
