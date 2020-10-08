@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="" />
+    <list default="true" id="8c966394-7f1e-4404-90e2-8b6be5d37ff0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/website/pages/about-us.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/website/pages/about-us.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +150,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -190,6 +193,7 @@
       <updated>1602031470692</updated>
       <workItem from="1602031471835" duration="9029000" />
       <workItem from="1602046519442" duration="19363000" />
+      <workItem from="1602129686524" duration="2008000" />
     </task>
     <servers />
   </component>
@@ -204,22 +208,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602074777587" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1602032610473">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1238" height="182" key="GridCell.Tab.0.bottom" timestamp="1602129783299">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602032610473" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1602032610473">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1602129783299" />
+    <state width="1238" height="182" key="GridCell.Tab.0.center" timestamp="1602129783297">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602032610473" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1602032610473">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1238" height="182" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1602129783297" />
+    <state width="1238" height="182" key="GridCell.Tab.0.left" timestamp="1602129783296">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602032610473" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1602032610473">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1238" height="182" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1602129783296" />
+    <state width="1238" height="182" key="GridCell.Tab.0.right" timestamp="1602129783298">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602032610473" />
+    <state width="1238" height="182" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1602129783298" />
     <state x="1275" y="446" key="NewPhpFileDialog" timestamp="1602073390750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
