@@ -29,6 +29,10 @@ Route::get('/pricing', function () {
     return view('website.pages.pricing');
 })->name('pricing');
 
+Route::get('/hire-me', function () {
+    return view('website.pages.hire-me');
+})->name('hire-me');
+
 Auth::routes();
 
 Route::get('/logout', function(){
